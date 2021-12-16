@@ -1,0 +1,27 @@
+
+Name: Emmanuel Efewongbe
+Student number: 200417647
+Class number: 397
+URL: http://www2.cs.uregina.ca/~eie520/Assignment3/login.html
+
+List of files: Login.html, signup.html, mystyle.css, postrecipe.html, recipedetail.html, recipelist.html, validate.js, login-r.js, postrecipe-r.js, recipedetail-r.js, signup-r.js and images I used for the website include an "images" folder.
+
+Login.html: This file lets the user input a username and password and then goes on to the recipe list page when the login button is clicked. There is also the "Create account" link that lets the user go to the signup page.
+
+Signup.html: This file lets new user's create an account. When the submit button is clicked it takes the user to the recipe list page.
+
+Recipelist.html: This page shows the user the list of food that have been posted. It allows the user to navigate to other pages through the links in the navigation bar. When the user clicks on the name of any food, it takes the user to the recipe details page. It also shows the average rating of each food on the page.
+
+Recipedetail.html: This page shows the user the details of the author, how to cook the food and also allows then rate the user while showing the average rating. It allows the user to navigate to other pages through the links in the navigation bar.
+
+postrecipe.html: This page allows the user post new recipes. It allows the user to navigate to other pages through the links in the navigation bar.
+
+Validate.js: To check for input error and optimize usability of the webpages.
+
+Login-r.js: Contains event listener for the login page.
+
+Postrecipe-r.js: Contains event listener for the post-recipe page.
+
+Recipedetail-r.js: Contains event listener for the Recipe-detail page.
+
+Signup-r.js: Contains event listener for the signup page.
